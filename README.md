@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @HolyTirssa
-- 👀 I’m interested in Artificial intelligence ...
-- 🌱 I’m currently learning Python, AWS and some new technologies ...
-- 💞️ I’m looking to collaborate on projects...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 👋 Hi there, I'm Holy Tirssa Kodavatikanti!
 
-<!---
-HolyTirssa/HolyTirssa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Master of Computer Applications  
+💻 Passionate about Python, Data Analysis, and AI  
+🌱 Currently learning: Pandas, NumPy, and building mini projects  
+🌐 Portfolio Project: [Student Performance Analyzer](https://github.com/YOUR_USERNAME/student-performance-analyzer)
+
+---
+
+🛠️ Skills
+- Python, Pandas, NumPy
+- Machine Learning Basics
+- Git & GitHub
+- AWS (Beginner)
+
+---
+
+ 📌 Projects
+- 🎓 **Student Performance Analyzer**  
+  Analyzed student marks using Pandas and NumPy to calculate total, average, grades, and topper!
+
+---
+
+📫 Let's Connect!
+- 📧 holytirssa18@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/holytirssa)
+- 💻 [GitHub](https://github.com/YOUR_USERNAME)
+
+---
+
+Made with ❤️ by Holy Tirssa
