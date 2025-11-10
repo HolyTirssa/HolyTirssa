@@ -55,7 +55,7 @@ During my internship, I contributed to **Hemma.ai** and **Kodefast.com** under *
 ## 🌐 Let's Connect  
 - 💼 [LinkedIn – Holy Tirssa](https://www.linkedin.com/in/holytirssa/)  
 - 💻 [GitHub – HolyTirssa](https://github.com/HolyTirssa)  
-- ✉️ [Email Me](mailto:your-email@example.com)
+- ✉️ [Email Me](mailto:holytirssa18@gmail.com)
 
 ---
 ⭐ *“Blending creativity and data to make technology more human.”* 🌿
